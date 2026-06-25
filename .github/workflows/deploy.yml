@@ -26,6 +26,8 @@ jobs:
           node-version: 22
       - name: Install Dependencies
         run: npm ci
+      - name: Update Quartz plugins
+        run: npx quartz update
       - name: Build Quartz
         run: npx quartz build
       - name: Upload artifact

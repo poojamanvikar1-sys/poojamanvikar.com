@@ -20,26 +20,26 @@ configuration:
       body: Source Serif 4
       code: JetBrains Mono
     colors:
-      lightMode:
-        light: "#FAF8F5"
-        lightgray: "#EDE9E2"
-        gray: "#9E9585"
-        darkgray: "#3D3530"
-        dark: "#1C1714"
-        secondary: "#7A5C44"
-        tertiary: "#B5956E"
-        highlight: "rgba(122, 92, 68, 0.10)"
-        textHighlight: "#F3E4D0"
-      darkMode:
-        light: "#1C1714"
-        lightgray: "#2A2320"
-        gray: "#6B6158"
-        darkgray: "#C9BFB4"
-        dark: "#F5F0EB"
-        secondary: "#C4956A"
-        tertiary: "#8A6A4E"
-        highlight: "rgba(196, 149, 106, 0.12)"
-        textHighlight: "#3A2A1C"
+        lightMode:
+          light: "#FDFAF5"
+          lightgray: "#EDE5D5"
+          gray: "#A0906E"
+          darkgray: "#4A3E30"
+          dark: "#3B2E1E"
+          secondary: "#4A6741"
+          tertiary: "#C4952A"
+          highlight: "rgba(196, 149, 42, 0.12)"
+          textHighlight: "#F5E8B0"
+        darkMode:
+          light: "#1C1714"
+          lightgray: "#2A2320"
+          gray: "#6B6158"
+          darkgray: "#C9BFB4"
+          dark: "#F5F0EB"
+          secondary: "#C4956A"
+          tertiary: "#8A6A4E"
+          highlight: "rgba(196, 149, 106, 0.12)"
+          textHighlight: "#3A2A1C"
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
@@ -169,9 +169,6 @@ plugins:
     enabled: true
     options:
       links:
-        LinkedIn: https://linkedin.com/in/poojamanvikar
-        GitHub: https://github.com/poojamanvikar1-sys
-        Substack: https://substack.com
   - source: github:quartz-community/spacer
     enabled: true
     order: 25

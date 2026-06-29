@@ -1,23 +1,15 @@
 ---
-title: Pooja Manvikar
-description: Product thinker. AI safety researcher. Documentary photographer.
+title: Hello there!
 ---
 
-I build products at the intersection of AI, trust, and human agency — and I write about what that costs us.
+I am a builder who thrives at the intersection of AI, trust, and human agency. Here I share about my research, projects, and learnings. 
 
-Currently: researching how AI systems shape relational behavior at scale, completing BlueDot's AGI Strategy course, and looking for my next PM role at the frontier of AI safety and agentic systems.
+Currently: researching how generally available LLMs shape relational behavior at scale, completed BlueDot's AGI Strategy course, and looking for my next role where I can bring human persective to AI safety. 
 
-Previously: Senior PM at Salesforce, building GenAI agentic infrastructure used by 80,000+ employees.
-
----
-
-**Explore**
-
-- [[about|About Me]] — background, how I think, what I care about
-- [[research|Research]] — relational accommodation drift in companion AI
-- [[resume|Resume]] — product experience and technical depth
+Previously: Product Manager at Salesforce where I built employee experience platform for global users
 
 ---
 
-*Based in Atlanta, GA. Originally from Bangalore.*
-*Writing at [The Severance Project](https://substack.com) on Substack.*
+
+
+

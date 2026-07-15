@@ -18,3 +18,4 @@ I use this space to share my projects, learnings & meet people along the way.
 
 - **LinkedIn**: [linkedin.com/in/poojamanvikar](https://linkedin.com/in/poojamanvikar)
 - **Substack**:[The Severence Project](https://poojamanvikar.substack.com/?utm_campaign=profile_chips)
+- **Email**: poojamairesearch@gmail.com

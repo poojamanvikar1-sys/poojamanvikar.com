@@ -1,3 +1,3 @@
 ---
-draft: true
+title: AI Safety
 ---

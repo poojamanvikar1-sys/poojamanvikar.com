@@ -1,9 +1,10 @@
 ---
+draft: true
 title: LLM Conversation Parser
 ---
 **What**
 
-I'm currently running a short-term pilot to measure a mechanism of an AI Safety concept.
+I'm currently running a short-term evaluation pilot on the frontier AI models.
 
 To test this, I run the same conditions across multiple products(ChatGPT, Claude & Gemini), context lengths, and memory settings, and score each conversation against a fixed marker set that I created. The scoring itself is manual and intentional. But getting from a raw transcript to a scoreable, structured row in Google sheets is a lengthy, manual process I wanted to avoid. So I built a general-purpose parser for it. My research study is its first real use case.
 
